@@ -1,4 +1,4 @@
-# Learning Linux
+# Improving Linux skills
 Repo contains notes & practice questions for Bash Scripting and Shell Programming course
 
 **Notes -** </br>
