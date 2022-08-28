@@ -11,7 +11,7 @@ Chapter1:
 28/8/22 : completed assgn4 [ Topic: Wildcards ] </br>
 
 **Resources -** </br>
-[bash cheatsheet]
+![bash cheatsheet](https://github.com/amarjeet-saini/BashScripting_Course/blob/main/ShellScriptingCheatSheetandReference.pdf)
 
 
 Feel free to use any resources </br>
