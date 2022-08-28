@@ -16,4 +16,4 @@ Chapter1:
 
 Feel free to use any resources </br>
 
-**Cite:** Practice questions pdf are taken from [Bash Scripting and Shell Programming](https://www.udemy.com/course/bash-scripting/) Udemy course
+**Cite:** Practice questions pdf and cheatsheet are taken from [Bash Scripting and Shell Programming](https://www.udemy.com/course/bash-scripting/) Udemy course
