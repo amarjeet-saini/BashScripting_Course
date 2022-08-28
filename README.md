@@ -8,6 +8,7 @@ Chapter1:
 22/8/22 : completed assgn1 [ Topic: Intro, test, if-else, loop ] </br>
 23/8/22 : completed assgn2 [ Topic: Exit status ] </br>
 26/8/22 : completed assgn3 [ Topic: Functions ] </br>
+28/8/22 : completed assgn4 [ Topic: Wildcards ] </br>
 
 **Resources -** </br>
 [bash cheatsheet]
