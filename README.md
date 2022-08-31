@@ -10,7 +10,7 @@ Chapter1:
 26/8/22 : completed assgn3 [ Topic: Functions ] </br>
 28/8/22 : completed assgn4 [ Topic: Wildcards ] </br>
 31/8/22 : completed assgn5 [ Topic: CaseStatements & Logic ] </br>
-1/9/22  : completed assgn6 [ Topic: Logs ] </br>
+01/9/22  : completed assgn6 [ Topic: Logs ] </br>
 
 **Resources -** </br>
 ![bash cheatsheet](https://github.com/amarjeet-saini/BashScripting_Course/blob/main/ShellScriptingCheatSheetandReference.pdf)
